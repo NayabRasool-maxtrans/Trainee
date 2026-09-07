@@ -2,6 +2,16 @@
 /dist
 /node_modules
 /build
+#create .gitignore
+touch.gitignore
+
+#add therules
+echo "week2-assignment/node_modules/" >> .gitignore
+
+
+#week2 
+
+/week2-assignment/node_modules/
 
 # Logs
 logs
